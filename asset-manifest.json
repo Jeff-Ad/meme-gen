@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/meme-gen/static/js/main.1ca05fea.js",
+    "static/media/meme.png": "/meme-gen/static/media/meme.677aa916d479074bddc1.png",
+    "index.html": "/meme-gen/index.html",
+    "main.1ca05fea.js.map": "/meme-gen/static/js/main.1ca05fea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ca05fea.js"
+  ]
+}
